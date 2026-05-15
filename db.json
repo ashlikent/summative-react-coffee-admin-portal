@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Vanilla Bean Coffee",
+      "description": "Medium roast with a smooth vanilla flavor.",
+      "origin": "Colombia",
+      "location": "Location 1",
+      "price": 50
+    },
+    {
+      "id": "2",
+      "name": "House Blend",
+      "description": "Dark roast with a rich bold flavor.",
+      "origin": "Vietnam",
+      "location": "Location 2",
+      "price": 250
+    },
+    {
+      "id": "3",
+      "name": "Caramel Sunrise",
+      "description": "Light roast with sweet caramel notes.",
+      "origin": "Brazil",
+      "location": "Location 3",
+      "price": 11
+    },
+    {
+      "id": "4",
+      "name": "Mocha Mountain",
+      "description": "Chocolatey roast with a smooth finish.",
+      "origin": "Ethiopia",
+      "location": "Location 4",
+      "price": 14
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
